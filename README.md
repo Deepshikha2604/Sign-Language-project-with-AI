@@ -6,6 +6,8 @@ A **real-time American Sign Language (ASL) recognition system** that converts ha
 Built with **Python**, **OpenCV**, **TensorFlow**, and a custom-trained **CNN model**, this project empowers accessibility by enabling **hands-free communication** through sign language.
 
 ---
+## 📸 Demo Video
+https://drive.google.com/file/d/16yT3klPjl3PsZSrgbyzHKy-9Tp2QJMB_/view?usp=sharing
 
 ## 🚀 Features
 
@@ -93,6 +95,5 @@ Built with **Tkinter** featuring:
 
 **Python**, **OpenCV**, **TensorFlow/Keras**, **cvzone**, **NLTK**, **SymSpell**, **Tkinter**, **Pyttsx3**
 
-## 📸 Demo Video
-https://drive.google.com/file/d/16yT3klPjl3PsZSrgbyzHKy-9Tp2QJMB_/view?usp=sharing
+
 
