@@ -93,3 +93,6 @@ Built with **Tkinter** featuring:
 
 **Python**, **OpenCV**, **TensorFlow/Keras**, **cvzone**, **NLTK**, **SymSpell**, **Tkinter**, **Pyttsx3**
 
+## 📸 Demo Video
+https://drive.google.com/file/d/16yT3klPjl3PsZSrgbyzHKy-9Tp2QJMB_/view?usp=sharing
+
